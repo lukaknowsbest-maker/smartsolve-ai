@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "smartsolve-ai",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e807256a-1e25-4566-9f9e-2bab5fd2a808",
+			"database_name": "DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
